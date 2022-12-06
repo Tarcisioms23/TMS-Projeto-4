@@ -8,8 +8,8 @@
  - http://localhost:8091/messagens/welcome
 
 ## 2 One Note - Doc criado para esse projeto
- - https://github.com/Tarcisioms23/TMS-Projeto-4/blob/master/projeto4/arquivos%20importantes/Anota%C3%A7%C3%B5es%20R%C3%A1pidas.one
- - https://github.com/Tarcisioms23/TMS-Projeto-4/tree/master/projeto4/arquivos%20importantes
+ - [Secao OneNote](https://github.com/Tarcisioms23/TMS-Projeto-4/blob/master/projeto4/arquivos%20importantes/Anota%C3%A7%C3%B5es%20R%C3%A1pidas.one)
+ - [Local Da Secao One Note](https://github.com/Tarcisioms23/TMS-Projeto-4/tree/master/projeto4/arquivos%20importantes)
  
 
 ## 3 Link do repositorio da Collection do Postman:
