@@ -7,8 +7,13 @@
 ## 1 Link da API ambiente local: 
  - http://localhost:8091/messagens/welcome
 
+## 2 One Note - Doc criado para esse projeto
+ - https://github.com/Tarcisioms23/TMS-Projeto-4/blob/master/projeto4/arquivos%20importantes/Anota%C3%A7%C3%B5es%20R%C3%A1pidas.one
+ - https://github.com/Tarcisioms23/TMS-Projeto-4/tree/master/projeto4/arquivos%20importantes
+ 
+
 ## 3 Link do repositorio da Collection do Postman:
- - [Collection Produtos - Postman](https://github.com/Tarcisioms23/Spring-projeto-1/tree/master/Arquivos%20necessarios/collection)
+ - [Collection Produtos - Postman](https://github.com/Tarcisioms23/TMS-Projeto-4/tree/master/projeto4/arquivos%20importantes/collection)
 
 ## 4 Tecnologias:
  - Java 
@@ -20,7 +25,7 @@
  - IDE utilizada: Spring tool Suite 4
 
 ## 6 Referências:
-  1. [GitHub](https://docs.github.com/pt/enterprise-server@2.20/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)
-  2. [Heroku](https://adamatti.github.io/blog/git/2017/06/04/heroku.html)
-  3. [Video Git na IDE Eclipse](https://www.youtube.com/watch?v=bpBRFNKg8k4&list=PL8iIphQOyG-D2FP9wkg12AavzmVRWEcnJ)
-  4. [Video Clone Git na IDE Eclipse](https://www.youtube.com/watch?v=bpBRFNKg8k4&list=PL8iIphQOyG-D2FP9wkg12AavzmVRWEcnJ)
+
+  1. [Video explicando sobre Variavel de ambiente no Spring](https://www.youtube.com/watch?v=sXrZNGWVHVA)
+
+  2. [FALHA NO GitHub](https://docs.github.com/pt/get-started/using-git/dealing-with-non-fast-forward-errors)
