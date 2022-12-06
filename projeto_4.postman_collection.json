@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "37dc739b-a42a-44df-b0cf-e963f5eb0db2",
+		"name": "projeto_4",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "messagen",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
